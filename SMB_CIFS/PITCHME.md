@@ -17,7 +17,6 @@ Note:
 
 - SMB1 seit Win 10 1803 deaktiviert
     - nötig für z.B. alte Samba4 NT4-Domäne
-- SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
 - Common Internet File System
     - Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
 ---
@@ -27,24 +26,27 @@ Note:
     - server-side copy
     - Hyper-V storage
     - SQL over Network
-- RPC (remote Kommandos)
 
 Note:
-- Verwaltungsservice: LanManWorkstation
+- Verwaltungsservice auf Client: LanManWorkstation
+- SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
+
 ---
 
 ## Samba
 
 ---
-
-- SMB bis 2007 closed source
 - freie Implementierung von SMB für Nutzung mit Unix usw.
-- ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
+- SMB bis 2007 closed source
+- transparenter Ersatz für Windows Server
 
 Note:
 
 - Klage da MS mit geheimhaltung von SMB Interoperabilität verhindert
 - Gerichtliche für Microsoft Strafe war 860 Millionen Euro
+- Samba ermöglicht z.B.
+    - SMB für kostenlose NAS Betriebssysteme
+    - Bundestag AD ohne Windows Server
 
 ---
 
