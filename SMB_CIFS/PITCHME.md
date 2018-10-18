@@ -2,7 +2,7 @@
 
 ---
 
-# Was ist ist was?
+# Was ist was?
 
 ---
 
@@ -34,7 +34,6 @@ Note:
 
 ---
 
-- Verwaltungsservice: LanManWorkstation
 - SMB bildet quasi alle Dateizugriffsvorgänge ab
 - und mehr z.B. 
     - server-side copy
@@ -42,14 +41,16 @@ Note:
     - SQL over Network
 - RPC (remote Kommandos)
 
+Note:
+- Verwaltungsservice: LanManWorkstation
 ---
 
 ## Samba
 
 ---
 
-- freie Implementierung von SMB für Nutzung mit Unix usw.
 - SMB bis 2007 closed source
+- freie Implementierung von SMB für Nutzung mit Unix usw.
 - ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
 
 Note:
