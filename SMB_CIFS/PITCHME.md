@@ -15,7 +15,6 @@ Note:
 - Common Internet File System
 - Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
 
-
 ---
 
 **S**erver**M**essage**B**lock
@@ -27,11 +26,11 @@ Note:
 - **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
 - SMB1, SMB2, SMB3(seit Win 8)
     - z.b. server-side copy
-- SMB1 seit Win 10 1803 deaktiviert
-    - nötig für z.B. alte Samba4 NT4-Domäne
 
 Note:
 
+- SMB1 seit Win 10 1803 deaktiviert
+    - nötig für z.B. alte Samba4 NT4-Domäne
 - SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
 
 ---
@@ -42,7 +41,7 @@ Samba
 
 - freie Implementierung von SMB für Nutzung mit Unix usw.
 - SMB bis 2007 closed source
-- Samba ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
+- ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
 
 Note:
 
