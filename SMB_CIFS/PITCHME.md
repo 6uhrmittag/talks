@@ -1,28 +1,23 @@
-# SMB CIFS
-## Worüber reden wir eigentlich?
+# SMB/CIFS/Samba
 
 ---
 
-### Inhalt
-- Definitionen
-- Funktionen 
+# Was ist ist was?
 
 ---
 
 # CIFS
-
-- **S**erver**M**essage**B**lock
-- Samba
-
----
-
-# CIFS
-- Uraltversion von SMB1
+- Uraltversion von SMB1 (1996)
 - Heute CIFS => SMB
 
+Note:
+- Common Internet File System
+- Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
+
+
 ---
 
-SMB
+**S**erver**M**essage**B**lock
 
 ---
 
@@ -34,6 +29,9 @@ SMB
 - SMB1 seit Win 10 1803 deaktiviert
     - nötig für z.B. alte Samba4 NT4-Domäne
 
+Note:
+- SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
+
 ----
 
 Samba
@@ -44,6 +42,10 @@ Samba
 - SMB bis 2007 closed source
 - Samba ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
 
+Note:
+- Klage da MS mit geheimhaltung von SMB Interoperabilität verhindert
+- Gerichtliche für Microsoft Strafe war 860 Millionen Euro
+
 ----
 
 ## Weiterführendes
@@ -53,3 +55,5 @@ Samba
 - [Talk: SMB and AD protocol implementation in Samba](https://www.youtube.com/watch?v=jWJKxAHq0X8)
 - [Podcast: CRE025 Samba](https://cre.fm/cre025-samba)
 - [Gerichtssteit bzgl.. SMB/samba](https://fsfe.org/activities/ms-vs-eu/ms-vs-eu.de.html)
+
+footnote : "2018 - Marvin Heimbrodt"
