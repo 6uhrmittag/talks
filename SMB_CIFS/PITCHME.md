@@ -1,9 +1,5 @@
-# SMB, Samba
-## Begriffklärung
-
----
-
 ## **S**erver**M**essage**B**lock
+## Samba
 
 ---
 
