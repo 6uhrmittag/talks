@@ -1,1 +1,1 @@
-https://gitpitch.com/$USER/$REPO/$BRANCH?p=$directory
+[View on gitpitch.com](https://gitpitch.com/6uhrmittag/talks/master?grs=github&t=beige&p=SMB_CIFS)
