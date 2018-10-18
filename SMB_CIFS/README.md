@@ -1,0 +1,1 @@
+https://gitpitch.com/$USER/$REPO/$BRANCH?p=$directory
