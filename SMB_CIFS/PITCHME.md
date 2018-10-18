@@ -1,8 +1,5 @@
-# SMB/Samba
-
----
-
-# Begriffklärung
+# SMB, Samba
+## Begriffklärung
 
 ---
 
