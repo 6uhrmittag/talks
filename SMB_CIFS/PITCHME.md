@@ -17,7 +17,7 @@ Note:
 
 ---
 
-**S**erver**M**essage**B**lock
+# **S**erver**M**essage**B**lock
 
 ---
 
@@ -35,7 +35,7 @@ Note:
 
 ---
 
-Samba
+# Samba
 
 ---
 
