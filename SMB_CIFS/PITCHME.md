@@ -6,7 +6,7 @@
 
 ---
 
-# CIFS
+## CIFS
 - Uraltversion von SMB1 (1996)
 - Heute CIFS => SMB
 
@@ -17,7 +17,7 @@ Note:
 
 ---
 
-# **S**erver**M**essage**B**lock
+## **S**erver**M**essage**B**lock
 
 ---
 
@@ -35,7 +35,7 @@ Note:
 
 ---
 
-# Samba
+## Samba
 
 ---
 
@@ -53,9 +53,7 @@ Note:
 ## Weiterführendes
 - https://www.samba.org/cifs/docs/what-is-smb.html
 - https://docs.microsoft.com/en-us/windows/desktop/fileio/microsoft-smb-protocol-and-cifs-protocol-overview
+- [Gerichtssteit bzgl. SMB/samba](https://fsfe.org/activities/ms-vs-eu/ms-vs-eu.de.html)
 - [SMB2 Reference](https://msdn.microsoft.com/en-us/library/cc246488.aspx)
 - [Talk: SMB and AD protocol implementation in Samba](https://www.youtube.com/watch?v=jWJKxAHq0X8)
 - [Podcast: CRE025 Samba](https://cre.fm/cre025-samba)
-- [Gerichtssteit bzgl.. SMB/samba](https://fsfe.org/activities/ms-vs-eu/ms-vs-eu.de.html)
-
-footnote : "2018 - Marvin Heimbrodt"
