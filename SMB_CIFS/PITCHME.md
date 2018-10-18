@@ -1,4 +1,4 @@
-# SMB/CIFS/Samba
+# SMB/Samba
 
 ---
 
@@ -11,10 +11,10 @@
 ---
 
 - regelt seit 1990 den Datei-/Druckerzugriff in Microsoft Netzwerken
-    - 1996: kurzzeitig CIFS
-- über TCP/IP
 - **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
 - SMB1, SMB2, SMB3(seit Win 8)
+    - zwischen SMB1/SMB2: kurzzeitig CIFS
+
 
 Note:
 
