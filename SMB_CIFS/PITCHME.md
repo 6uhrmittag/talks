@@ -25,13 +25,22 @@ Note:
 - über TCP/IP
 - **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
 - SMB1, SMB2, SMB3(seit Win 8)
-    - z.b. server-side copy
 
 Note:
 
 - SMB1 seit Win 10 1803 deaktiviert
     - nötig für z.B. alte Samba4 NT4-Domäne
 - SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
+
+---
+
+- Verwaltungsservice: LanManWorkstation
+- SMB bildet quasi alle Dateizugriffsvorgänge ab
+- und mehr z.B. 
+    - server-side copy
+    - Hyper-V storage
+    - SQL over Network
+- RPC (remote Kommandos)
 
 ---
 
