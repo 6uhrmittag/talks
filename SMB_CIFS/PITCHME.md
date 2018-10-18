@@ -2,18 +2,7 @@
 
 ---
 
-# Was ist was?
-
----
-
-## CIFS
-- Uraltversion von SMB1 (1996)
-- Heute CIFS => SMB
-
-Note:
-
-- Common Internet File System
-- Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
+# Begriffklärung
 
 ---
 
@@ -22,6 +11,7 @@ Note:
 ---
 
 - regelt seit 1990 den Datei-/Druckerzugriff in Microsoft Netzwerken
+    - 1996: kurzzeitig CIFS
 - über TCP/IP
 - **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
 - SMB1, SMB2, SMB3(seit Win 8)
@@ -31,7 +21,8 @@ Note:
 - SMB1 seit Win 10 1803 deaktiviert
     - nötig für z.B. alte Samba4 NT4-Domäne
 - SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
-
+- Common Internet File System
+    - Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
 ---
 
 - SMB bildet quasi alle Dateizugriffsvorgänge ab
