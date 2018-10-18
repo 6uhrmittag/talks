@@ -21,7 +21,7 @@ Note:
 
 ---
 
-- Seit 1990 von MS für Datei-/Druckerzugriff im Netzwerk genutzt
+- regelt seit 1990 den Datei-/Druckerzugriff in Microsoft Netzwerken
 - über TCP/IP
 - **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
 - SMB1, SMB2, SMB3(seit Win 8)
