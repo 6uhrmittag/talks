@@ -11,6 +11,7 @@
 - Heute CIFS => SMB
 
 Note:
+
 - Common Internet File System
 - Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
 
@@ -30,23 +31,25 @@ Note:
     - nötig für z.B. alte Samba4 NT4-Domäne
 
 Note:
+
 - SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
 
-----
+---
 
 Samba
 
-----
+---
 
 - freie Implementierung von SMB für Nutzung mit Unix usw.
 - SMB bis 2007 closed source
 - Samba ermöglicht voll funktionsfähige Windows Domänen ohne WindowsServer
 
 Note:
+
 - Klage da MS mit geheimhaltung von SMB Interoperabilität verhindert
 - Gerichtliche für Microsoft Strafe war 860 Millionen Euro
 
-----
+---
 
 ## Weiterführendes
 - https://www.samba.org/cifs/docs/what-is-smb.html
