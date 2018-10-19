@@ -3,12 +3,12 @@
 
 ---
 
-## **S**erver**M**essage**B**lock
+## @color[red](S)erver@color[red](M)essage@color[red](B)lock
 
 ---
 
 - regelt seit 1990 den Datei-/Druckerzugriff in Microsoft Netzwerken
-- **DAS** Protokoll zwischen MS Client <> Server + Server <> Server
+- **DAS** Protokoll zwischen MS Clients
 - SMB1, SMB2, SMB3(seit Win 8)
     - zwischen SMB1/SMB2: kurzzeitig CIFS
 
@@ -42,7 +42,7 @@ Note:
 
 Note:
 
-- Klage da MS mit geheimhaltung von SMB Interoperabilität verhindert
+- Klage da MS mit Geheimhaltung von SMB Interoperabilität verhindert
 - Gerichtliche für Microsoft Strafe war 860 Millionen Euro
 - Samba ermöglicht z.B.
     - SMB für kostenlose NAS Betriebssysteme

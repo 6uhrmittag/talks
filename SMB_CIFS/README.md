@@ -1,1 +1,2 @@
-[View on gitpitch.com](https://gitpitch.com/6uhrmittag/talks/master?grs=github&t=beige&p=SMB_CIFS)
+- [View on gitpitch.com](https://gitpitch.com/6uhrmittag/talks/master?grs=github&t=beige&p=SMB_CIFS)
+- [PDF with notes](https://gitpitch.com/pitchme/print/github/6uhrmittag/talks/master/beige/PITCHME.pdf?p=SMB_CIFS&n=true)
