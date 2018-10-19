@@ -3,12 +3,12 @@
 
 ---
 
-## @color[red](S)erver@color[red](M)essage@color[red](B)lock
+## @color[red](S)erver @color[red](M)essage @color[red](B)lock
 
 ---
 
 - regelt seit 1990 den Datei-/Druckerzugriff in Microsoft Netzwerken
-- **DAS** Protokoll zwischen MS Clients
+- **DAS** Protokoll zwischen MS Produkten
 - SMB1, SMB2, SMB3(seit Win 8)
     - zwischen SMB1/SMB2: kurzzeitig CIFS
 
@@ -29,13 +29,14 @@ Note:
 
 Note:
 - Verwaltungsservice auf Client: LanManWorkstation
-- SMB macht auch RPC -> Remotekommandos für Windows über Netzwerk
+- SMB macht auch RPC(Remote Procedure Call) -> Remotekommandos für Windows über Netzwerk
 
 ---
 
 ## Samba
 
 ---
+
 - freie Implementierung von SMB für Nutzung mit Unix usw.
 - SMB bis 2007 closed source
 - transparenter Ersatz für Windows Server
@@ -47,7 +48,7 @@ Note:
 - Samba ermöglicht z.B.
     - SMB für kostenlose NAS Betriebssysteme
     - Bundestag AD ohne Windows Server
-
+- Entwicklung viel durch deutsche Firma SerNet
 ---
 
 ## Weiterführendes
