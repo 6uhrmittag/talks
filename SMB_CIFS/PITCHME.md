@@ -21,7 +21,7 @@ Note:
     - Zwischen SMB1 und SMB2 als Konter zu Sun's WebNFS 
 ---
 
-- SMB bildet quasi alle Dateizugriffsvorgänge ab
+- SMB bildet quasi alle NTFS Dateizugriffsvorgänge ab
 - und mehr z.B. 
     - server-side copy
     - Hyper-V storage
@@ -43,6 +43,7 @@ Note:
 
 Note:
 
+- nicht 100% kompatibel. Z.b. NTFS: 4 Datum-Attribute, Unix: nur 3
 - Vor WindowsNT Entwickelt, ursprüngliche nicht als Microsoft-Ersatz entwickelt
 - Klage da MS mit Geheimhaltung von SMB Interoperabilität verhindert
 - Gerichtliche für Microsoft Strafe war 860 Millionen Euro
