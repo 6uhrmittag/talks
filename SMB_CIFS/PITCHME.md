@@ -43,6 +43,7 @@ Note:
 
 Note:
 
+- Vor WindowsNT Entwickelt, ursprüngliche nicht als Microsoft-Ersatz entwickelt
 - Klage da MS mit Geheimhaltung von SMB Interoperabilität verhindert
 - Gerichtliche für Microsoft Strafe war 860 Millionen Euro
 - Samba ermöglicht z.B.
