@@ -30,7 +30,7 @@ Einführung Linux
 ---
 
 ### Terminal
-![Hardware Terminal](assets/terminal.jpg)
+![Hardware Terminal](terminal.jpg)
 
 ---
 
